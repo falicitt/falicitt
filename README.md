@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @falicitt
-- 👀 I’m interested in design, painting and badminton.
-- 🌱 I’m currently learning web design and development.
-- 💞️ I’m looking to collaborate on (Not sure yet)
-- 📫 How to reach me falicity@qq.com
+## Hi I'm Stefan just branching out 
 
-<!---
-falicitt/falicitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Stefan making a branch test 
