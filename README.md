@@ -1,5 +1,5 @@
 falicitt-patch-1
-- 👋 Hi, I’m @falicitt
+- 👋 Hi, I’m Yayuan.
 - 👀 I’m interested in design, painting and badminton.
 - 🌱 I’m currently learning web design and development.
 - 💞️ I’m looking to collaborate on (Not sure yet)
