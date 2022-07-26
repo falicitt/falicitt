@@ -1,8 +1,7 @@
-falicitt-patch-1
 - 👋 Hi, I’m Cassie.
-- 👀 I’m interested in design, painting and badminton.
-- 🌱 I’m currently learning web design and development.
-- 💞️ I’m looking to collaborate on (Not sure yet)
+- 👀 I’m interested in coding, design, painting and badminton.
+- 🌱 I’m currently working on my tech blog site.
+- 💞️ I’m looking to collaborate on anything fun!
 - 📫 How to reach me cassie.wangyg@gmail.com <!---
 
 
